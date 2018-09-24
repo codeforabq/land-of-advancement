@@ -86,8 +86,8 @@ Thumbs.db
 # "plugins" directory
 # "themes" directory
 wp-content/*
-!wp-content/plugins/theme-customisations-master/
 !wp-content/themes/
+!wp-content/plugins/theme-customisations-master/
 
 # ignore these plugins
 
